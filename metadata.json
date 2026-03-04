@@ -1,0 +1,7 @@
+{
+  "name": "EriCkolors Pro",
+  "description": "Uma ferramenta profissional para designers explorarem harmonias de cores, verificarem acessibilidade WCAG e analisarem paletas de imagens usando IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
